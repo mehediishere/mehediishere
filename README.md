@@ -6,10 +6,9 @@
 
 Hey there 👋
 
-Pleasure to meet you. About me?! Well with an education background in CSE, enthusiasm for Web Development and huge interest in Game Development I'm Mehedi - creative coder and Web Developer (Front & Back-End). I make it my mission to translate user-focused designs into pixel-perfect websites or applications that run blazing fast. As for why Web??
+A pleasure to meet you. About me?! Well with an education background in CSE, enthusiasm for Web Development, and a huge interest in Game Development I'm Mehedi - creative coder and Web Developer (Front & Back-End). I make it my mission to translate user-focused designs into pixel-perfect websites or applications that run blazing fast. As for why Web??
 
-
-Who dosen't like fantasy? The world of programming is another fantasy world actually. All you need your imagination to get it done. May it'll take some time but eventually there is hope to make dream come true. And thats what drive me into Web & Game Development.
+Who doesn't like fantasy? The world of programming is another fantasy world well that's how I see this at least. All you need your imagination to get it done. May It'll take some time but eventually there is hope to make the dream come true. And that's what drives me into Web & Game Development.
 
 Want to know more about me? [Check out my portfolio.](https://mehedihasan.ml/)
 
