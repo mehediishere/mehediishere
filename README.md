@@ -6,7 +6,10 @@
 
 Hey there 👋
 
-I’m Mehedi, a full-stack engineer, creative coder and self-proclaimed designer who specializes in front-end development. I make it my mission to translate user-focused designs into pixel-perfect websites or applications that run blazing fast.
+Pleasure to meet you. About me?! Well with an education background in CSE, enthusiasm for Web Development and huge interest in Game Development I'm Mehedi - creative coder and Web Developer (Front & Back-End). I make it my mission to translate user-focused designs into pixel-perfect websites or applications that run blazing fast. As for why Web??
+
+
+Who dosen't like fantasy? The world of programming is another fantasy world actually. All you need your imagination to get it done. May it'll take some time but eventually there is hope to make dream come true. And thats what drive me into Web & Game Development.
 
 Want to know more about me? [Check out my portfolio.](https://mehedihasan.ml/)
 
@@ -105,7 +108,7 @@ Want to know more about me? [Check out my portfolio.](https://mehedihasan.ml/)
 
 ![](https://img.shields.io/badge/Game-Unity_Game_Engine-informational?style=flat&logo=Unity&logoColor=white&color=4AB197)
 
-[![Naruto's Journey](./assets/NNN2.gif)](https://youtu.be/VQHGMg2RmG0)
+[![Naruto's Journey](./assets/Naruto'sJourney.gif)](https://youtu.be/VQHGMg2RmG0)
 
 <br>
 
