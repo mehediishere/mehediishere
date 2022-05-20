@@ -1,4 +1,4 @@
-![GitHub Banner](./assets/mhcover.jpg)
+![GitHub Banner](./assets/im-bored.gif)
 
 
 [![Twitter Badge](https://img.shields.io/badge/Medium-Profile-informational?style=flat&logo=medium&logoColor=white&color=1CA2F1)](https://medium.com/@mehediishere)
