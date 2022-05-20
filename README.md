@@ -1,4 +1,4 @@
-![Braydon's GitHub Banner](./assets/mhcover.jpg)
+![GitHub Banner](./assets/mhcover.jpg)
 
 
 [![Twitter Badge](https://img.shields.io/badge/Medium-Profile-informational?style=flat&logo=medium&logoColor=white&color=1CA2F1)](https://medium.com/@mehediishere)
