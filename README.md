@@ -1,6 +1,3 @@
-![GitHub Banner](./assets/im-bored.gif)
-
-
 [![Twitter Badge](https://img.shields.io/badge/Medium-Profile-informational?style=flat&logo=medium&logoColor=white&color=1CA2F1)](https://medium.com/@mehediishere)
 [![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-Profile-informational?style=flat&logo=linkedin&logoColor=white&color=0D76A8)](https://www.linkedin.com/in/mh-mehedi-hasan/)
 
