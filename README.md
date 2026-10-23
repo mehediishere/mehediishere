@@ -81,5 +81,5 @@ Sometimes, I also mess around with Unity or Python just to experiment, learn som
 ---
 
 <p align="center">
-  Thanks for stopping by! If you're working on something interesting or want to talk about web development, feel free to connect. 🤝
+  Thanks for stopping by! If you're working on something interesting or want to talk about anything, feel free to connect. 🤝
 </p>
