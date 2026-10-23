@@ -24,13 +24,22 @@
 
 I build practical, scalable web products with a focus on backend architecture, clean code, and user-centered experiences.
 
-My work has centered on:
-- Laravel and PHP application development
-- API design and integration work
-- Ecommerce, admin dashboards, and business workflows
-- Authentication, modular architecture, and reusable packages
-- Frontend work with Vue.js, React, JavaScript, Tailwind CSS, and Bootstrap
-- Unity projects and interactive experiments
+## Recent focus
+
+- Building Laravel applications for business workflows, admin panels, and content platforms
+- Integrating payment gateways, shipping, and courier APIs into production-ready backends
+- Designing modular Laravel architecture and reusable packages for maintainability
+- Building responsive frontends with Vue.js, React, and modern CSS tooling
+- Writing Python scripts for automation, utilities, and supporting workflows
+
+## Core strengths
+
+- Laravel-based web apps for business, admin, and content workflows
+- Payment and shipping integration implementations
+- Reusable Laravel packages and modular app patterns
+- Frontend interfaces with Vue.js, React, and modern CSS tooling
+- API-driven features and internal tooling
+- Interactive Unity-based experimentation and prototypes
 
 ## Core stack
 
@@ -44,6 +53,7 @@ My work has centered on:
   <img src="https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white" alt="Tailwind CSS" />
   <img src="https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white" alt="Bootstrap" />
   <img src="https://img.shields.io/badge/REST_API-00599C?style=for-the-badge" alt="REST API" />
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
   <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
   <img src="https://img.shields.io/badge/Unity-000000?style=for-the-badge&logo=unity&logoColor=white" alt="Unity" />
@@ -51,23 +61,7 @@ My work has centered on:
   <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="Linux" />
 </p>
 
-## What I’ve built
-
-- Laravel-based web apps for business, admin, and content workflows
-- Payment and shipping integration implementations
-- Reusable Laravel packages and modular app patterns
-- Frontend interfaces with Vue.js, React, and modern CSS tooling
-- API-driven features and internal tooling
-- Interactive Unity-based experimentation and prototypes
-
 [![Naruto's Journey](./assets/Naruto'sJourney.gif)](https://youtu.be/VQHGMg2RmG0)
-
-## Experience snapshot
-
-- Backend-first developer with a strong focus on maintainable, production-ready systems
-- Comfortable working across full-stack responsibilities and business logic
-- Experienced in building features from scratch and improving existing applications
-- Interested in practical software engineering, clean architecture, and real-world problem solving
 
 ## Connect
 
