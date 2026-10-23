@@ -58,6 +58,8 @@ My work has centered on:
 - API-driven features and internal tooling
 - Interactive Unity-based experimentation and prototypes
 
+[![Naruto's Journey](./assets/Naruto'sJourney.gif)](https://youtu.be/VQHGMg2RmG0)
+
 ## Experience snapshot
 
 - Backend-first developer with a strong focus on maintainable, production-ready systems
@@ -70,7 +72,3 @@ My work has centered on:
 - LinkedIn: https://www.linkedin.com/in/mh-mehedi-hasan/
 - Medium: https://medium.com/@mehediishere
 - Email: mehediishere@gmail.com
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=mehediishere&label=Profile+views&color=4AB197&style=flat-square" alt="Profile views" />
-</p>
