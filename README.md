@@ -76,9 +76,7 @@ And when I'm not coding? There's a good chance I'm sleeping or watching anime. ð
 
 Sometimes, I also mess around with Unity or Python just to experiment, learn something new, or build something fun.
 
-<p align="center">
-  <img src="./assets/Naruto'sJourney.gif" alt="Naruto's Journey" width="600" />
-</p>
+[![Naruto's Journey](./assets/Naruto'sJourney.gif)](https://youtu.be/VQHGMg2RmG0)
 
 ---
 
