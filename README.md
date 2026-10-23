@@ -22,9 +22,9 @@
 
 ## About
 
-I build practical, scalable web products with a focus on backend architecture, clean code, and user-centered experiences.
+I’m a full-stack developer focused on building reliable web products with strong backend architecture, clean implementation, and user-friendly experiences. I enjoy turning business needs into practical, maintainable systems that are easy to scale and use.
 
-## Recent focus
+### Recent focus
 
 - Building Laravel applications for business workflows, admin panels, and content platforms
 - Integrating payment gateways, shipping, and courier APIs into production-ready backends
@@ -32,7 +32,7 @@ I build practical, scalable web products with a focus on backend architecture, c
 - Building responsive frontends with Vue.js, React, and modern CSS tooling
 - Writing Python scripts for automation, utilities, and supporting workflows
 
-## Core strengths
+### Core strengths
 
 - Laravel-based web apps for business, admin, and content workflows
 - Payment and shipping integration implementations
