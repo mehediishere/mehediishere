@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&pause=1000&color=4AB197&center=true&vCenter=true&width=700&lines=Mehedi+Hasan;PHP+%7C+Laravel+%7C+Vue+%7C+Full-Stack+Developer" alt="Typing SVG" />
+</p>
+
 <div align="center">
   <a href="https://www.linkedin.com/in/mh-mehedi-hasan/" target="_blank">
     <img src="https://img.shields.io/badge/LINKEDIN-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
@@ -20,7 +24,7 @@
 
 I build practical, scalable web products with a focus on backend architecture, clean code, and user-centered experiences.
 
-My work has centered on:
+My recent focus on:
 
 - Laravel and PHP application development
 - API design and integration work
@@ -49,7 +53,7 @@ My work has centered on:
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
 </div>
 
-## What I’ve built
+## Core Strength
 
 - Laravel-based web apps for business, admin, and content workflows
 - Payment and shipping integration implementations
